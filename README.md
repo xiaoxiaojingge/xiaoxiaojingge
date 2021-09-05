@@ -1,7 +1,7 @@
 ## 我是晶哥哥
 
 - 🐧 一名95后程序员
-- 👨‍💻 个人站点：<a href="https://www.bilibili.com/read/cv11481506" target="_blank">关于我，卑微小码农</a>
+- 👨‍💻 个人站点：<a href="https://www.xiaojingge.com" target="_blank">关于我，卑微小码农</a>
 
 ## 今年汇总 ✨
 
