@@ -2,6 +2,8 @@
 
 - 🐧 一名95后程序员
 - 👨‍💻 个人站点：<a href="https://www.xiaojingge.com" target="_blank">关于我，卑微小码农</a>
+- 💬 微信：jing2427259171
+- 👬 QQ：2427259171
 
 ## 今年汇总 ✨
 
