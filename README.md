@@ -18,9 +18,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img alt="github-snake" src="./assets/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/xiaoxiaojingge/xiaoxiaojingge@main/assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/xiaoxiaojingge/xiaoxiaojingge@main/assets/github-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/xiaoxiaojingge/xiaoxiaojingge@main/assets/github-snake.svg" />
 </picture>
 
 <img src="./assets/paomaxian.gif" height="20" width="100%">
