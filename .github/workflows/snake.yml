@@ -17,10 +17,10 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: 1. Checkout Repository
+      - name: 1. 检出代码仓库
         uses: actions/checkout@v4
 
-      - name: 2. Generate GitHub Contributions Snake Animations
+      - name: 2. 生成 GitHub 贡献贪吃蛇动画
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -28,12 +28,16 @@ jobs:
             github-snake.svg
             github-snake-dark.svg?palette=github-dark
 
-      - name: 3. Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v4
+      - name: 3. 移动文件到 assets 目录
+        run: |
+          mkdir -p assets
+          mv github-snake.svg assets/
+          mv github-snake-dark.svg assets/
+
+      - name: 4. 提交并推送到 main 分支
+        uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          build_dir: ./assets
-          target_branch: main
-          commit_message: "Update snake animation [skip ci]"
-          allow_empty_commit: true
-          force_orphan: true
+          add: assets/github-snake.svg assets/github-snake-dark.svg
+          message: "更新贪吃蛇动画 [skip ci]"
+          push: true
+          default_author: github_actions
