@@ -17,7 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/xiaoxiaojingge/xiaoxiaojingge@main/assets/hacker_a.gif" width="40%"/>
 </div>
 
-
+<img src="./assets/paomaxian.gif" height="20" width="100%">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/xiaoxiaojingge/xiaoxiaojingge@main/assets/github-snake-dark.svg" />
