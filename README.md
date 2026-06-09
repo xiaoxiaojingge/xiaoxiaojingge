@@ -13,7 +13,7 @@
 
 <img src="./assets/paomaxian.gif" height="20" width="100%">
 
-<img src="./assets/hacker_a.gif" width="40%"/>
+<img src="https://cdn.jsdelivr.net/gh/xiaoxiaojingge/xiaoxiaojingge@main/assets/hacker_a.gif" width="40%"/>
 
 
 
