@@ -19,6 +19,8 @@
 
 <img src="./assets/paomaxian.gif" height="20" width="100%">
 
+<h3 align="left">公开仓库贡献（私有不计入）</h3>
+
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/xiaoxiaojingge/xiaoxiaojingge@main/assets/github-snake-dark.svg" />
