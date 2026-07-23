@@ -2,9 +2,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/xiaoxiaojingge/xiaoxiaojingge@main/assets/paomaxian.gif" height="20" width="100%">
 
-- 🐧 一名00后程序员
-- 👨‍💻 个人站点：<a href="https://www.xiaojingge.com" target="_blank">关于我，卑微小码农</a>
-- 💬 微信：17798832262
+- 🐧 一名00后程序员，AI全栈攻城狮
+- 👨‍💻 个人站点：<a href="https://www.xiaojingge.com" target="_blank">关于我，筱晶哥哥IT知识库</a>
+- 💬 微信：2427259171
 - 👬 QQ：2427259171
 
 <img src="https://cdn.jsdelivr.net/gh/xiaoxiaojingge/xiaoxiaojingge@main/assets/paomaxian.gif" height="20" width="100%">
